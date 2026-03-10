@@ -27,6 +27,8 @@ export function getAllPosts(locale: Locale): Post[] {
       tags: data.tags || [],
       summary: data.summary || "",
       coverImage: data.coverImage || "",
+      source: data.source,
+      sourceUrl: data.sourceUrl,
       content,
       locale,
     } as Post;

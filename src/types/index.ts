@@ -6,6 +6,8 @@ export interface Post {
   tags: string[];
   summary: string;
   coverImage?: string;
+  source?: string;
+  sourceUrl?: string;
   content: string;
   locale: "zh" | "en";
 }
