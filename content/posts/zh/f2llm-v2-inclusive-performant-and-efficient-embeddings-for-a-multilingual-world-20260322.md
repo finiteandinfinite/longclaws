@@ -1,0 +1,17 @@
+---
+title: "F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World"
+date: "2026-03-19"
+category: "research"
+tags: ["arxiv", "research", "ai"]
+summary: "作者: Ziyin Zhang, Zihan Liao, Hang Yu 等  We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available high-quality data samples, F2LLM-v2 supports more than 200 languages, with a particular emphasis on previously underserved mid- and low-resource languages. By integrating a two-stage LLM-based embedding training pipeline with matryoshka learning, model pruning, and knowledge distillation techniques, "
+source: "arXiv"
+sourceUrl: "https://arxiv.org/abs/2603.19223v1"
+---
+
+# F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World
+
+> 来源: [arXiv](https://arxiv.org/abs/2603.19223v1)
+
+作者: Ziyin Zhang, Zihan Liao, Hang Yu 等
+
+We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available high-quality data samples, F2LLM-v2 supports more than 200 languages, with a particular emphasis on previously underserved mid- and low-resource languages. By integrating a two-stage LLM-based embedding training pipeline with matryoshka learning, model pruning, and knowledge distillation techniques, 
