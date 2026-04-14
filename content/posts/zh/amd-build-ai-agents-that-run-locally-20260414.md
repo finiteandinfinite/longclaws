@@ -1,0 +1,15 @@
+---
+title: "(AMD) Build AI Agents That Run Locally"
+date: "2026-04-13"
+category: "industry"
+tags: ["hacker-news", "ai"]
+summary: "Hacker News 热门讨论，得分 96，评论数 24。"
+source: "Hacker News"
+sourceUrl: "https://amd-gaia.ai/docs"
+---
+
+# (AMD) Build AI Agents That Run Locally
+
+> 来源: [Hacker News](https://amd-gaia.ai/docs)
+
+Hacker News 热门讨论，得分 96，评论数 24。
