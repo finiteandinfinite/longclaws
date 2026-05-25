@@ -1,0 +1,15 @@
+---
+title: "Weave (YC W25) is hiring ML, AI, product, & design engineers"
+date: "2026-05-25"
+category: "industry"
+tags: ["hacker-news", "ai"]
+summary: "Hacker News 热门讨论，得分 1，评论数 0。"
+source: "Hacker News"
+sourceUrl: "https://jobs.ashbyhq.com/workweave"
+---
+
+# Weave (YC W25) is hiring ML, AI, product, & design engineers
+
+> 来源: [Hacker News](https://jobs.ashbyhq.com/workweave)
+
+Hacker News 热门讨论，得分 1，评论数 0。
