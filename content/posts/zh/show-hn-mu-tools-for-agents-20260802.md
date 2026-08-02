@@ -1,0 +1,15 @@
+---
+title: "Show HN: Mu – Tools for Agents"
+date: "2026-08-02"
+category: "industry"
+tags: ["hacker-news", "ai"]
+summary: "Hacker News 热门讨论，得分 7，评论数 0。"
+source: "Hacker News"
+sourceUrl: "https://github.com/micro/mu"
+---
+
+# Show HN: Mu – Tools for Agents
+
+> 来源: [Hacker News](https://github.com/micro/mu)
+
+Hacker News 热门讨论，得分 7，评论数 0。
