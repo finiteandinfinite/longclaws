@@ -1,0 +1,15 @@
+---
+title: "Basis completes a tax workbook 2x faster with GPT-6 Astra"
+date: "2026-09-28"
+category: "industry"
+tags: ["rss", "ai"]
+summary: "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
+source: "OpenAI Blog"
+sourceUrl: "https://openai.com/index/basis-tax-workbook-with-astra"
+---
+
+# Basis completes a tax workbook 2x faster with GPT-6 Astra
+
+> 来源: [OpenAI Blog](https://openai.com/index/basis-tax-workbook-with-astra)
+
+GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.
