@@ -1,0 +1,15 @@
+---
+title: "Amp puts AI agents to work beyond code with OpenAI models"
+date: "2026-10-14"
+category: "industry"
+tags: ["rss", "ai"]
+summary: "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+source: "OpenAI Blog"
+sourceUrl: "https://openai.com/index/amp-beyond-coding"
+---
+
+# Amp puts AI agents to work beyond code with OpenAI models
+
+> 来源: [OpenAI Blog](https://openai.com/index/amp-beyond-coding)
+
+See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.
